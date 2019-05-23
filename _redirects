@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/Musiscope/*"
+  to = "https://jovial-mestorf-14bc06.netlify.com/Musicsope/:splat"
+  status = 200
+  force = true

@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/Spectrogram/*"
+  to = "https://react-spectrogram.netlify.com/Spectrogram/:splat"
+  status = 200
+  force = true
